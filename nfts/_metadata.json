@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Level 0 NFT",
+    "description": "This art can be claimed when level 0 is completed.",
+    "image": "ipfs://QmTvRNwdWxUCpZaPNJ147LtxxqsVwqbGLRaaELVhcomoa2",
+    "attributes": [
+      {
+        "trait_type": "Sky",
+        "value": "Level0"
+      },
+      {
+        "trait_type": "Car",
+        "value": "Car0"
+      },
+      {
+        "trait_type": "Terrain",
+        "value": "Level0"
+      }
+    ]
+  },
+  {
+    "name": "Level 1 NFT",
+    "description": "This art can be claimed when level 1 is completed.",
+    "image": "ipfs://QmYPPNi54GoEi1ch1BfVMmHR4zrR2NcWc8tdHKt9GwhEhv",
+    "attributes": [
+      {
+        "trait_type": "Sky",
+        "value": "Level1"
+      },
+      {
+        "trait_type": "Car",
+        "value": "Car1"
+      },
+      {
+        "trait_type": "Terrain",
+        "value": "Level1"
+      }
+    ]
+  },
+  {
+    "name": "Level 2 NFT",
+    "description": "This art can be claimed when level 2 is completed.",
+    "image": "ipfs://QmV3kbuyhgFM1Rkcg5KN8SuFdjp3M1UVqf6ptaRhKDUXTR",
+    "attributes": [
+      {
+        "trait_type": "Sky",
+        "value": "Level2"
+      },
+      {
+        "trait_type": "Car",
+        "value": "Car2"
+      },
+      {
+        "trait_type": "Terrain",
+        "value": "Level2"
+      }
+    ]
+  },
+  {
+    "name": "Level 3 NFT",
+    "description": "This art can be claimed when level 3 is completed.",
+    "image": "ipfs://QmWZ3nRmJAeg42prBFNRXfR1GFi6BELuTNeqnpFQHbTkpV",
+    "attributes": [
+      {
+        "trait_type": "Sky",
+        "value": "Level3"
+      },
+      {
+        "trait_type": "Car",
+        "value": "Car3"
+      },
+      {
+        "trait_type": "Terrain",
+        "value": "Level3"
+      }
+    ]
+  },
+  {
+    "name": "Race Car",
+    "description": "A cool race car.",
+    "image": "ipfs://Qmc5ibWV5zp5ioS2cG9BzHwSnKACJRuzhhJ74DFiyTVVKe",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "red"
+      }
+    ]
+  },
+  {
+    "name": "Lambo",
+    "description": "A cool lambo.",
+    "image": "ipfs://QmQCrsiepgZP8tUqdE6VjMSxmjG4JaXorJh8SzrwhRofdE",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "yellow"
+      }
+    ]
+  },
+  {
+    "name": "Jeep",
+    "description": "A cool Jeep.",
+    "image": "ipfs://QmcaiW2yPtufTpm9JdZX1tPWEJyBVGsh6NJJxzSwiogddW",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "dark yellow"
+      }
+    ]
+  },
+  {
+    "name": "Motorcycle",
+    "description": "A cool Motorcycle.",
+    "image": "ipfs://QmXLFYzjS3KcktZELT2dy1kRk8ZwR3K6StR3RdEqqRUmJc",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "red"
+      }
+    ]
+  },
+  {
+    "name": "Best Score Icon",
+    "description": "A cool best score icon.",
+    "image": "ipfs://QmY1sLZ3AY2gYxnQHyAEo8GEGzex8uWCCbJSBB3EhhwyWd",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "yellow"
+      }
+    ]
+  },
+  {
+    "name": "Car Wheel",
+    "description": "A dope car wheel.",
+    "image": "ipfs://Qmf3gNzib3bysAJRuM1u26iE5CyVFsx3dm8PanJ4c2ynzH",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "silver"
+      }
+    ]
+  },
+  {
+    "name": "Coin Bag",
+    "description": "A cool coin bag.",
+    "image": "ipfs://Qmc4FmbmWfDLXUnKVRnhJDYhhi5KfnnnuassgxnXjGMEer",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "dark green"
+      }
+    ]
+  },
+  {
+    "name": "Fuel Icon",
+    "description": "A cool Fuel Icon.",
+    "image": "ipfs://QmXSPrdionrVrVdPQBaTnfcQHnzraFXrkyZy6se9zaY7HW",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "red"
+      }
+    ]
+  },
+  {
+    "name": "Brake Pedal",
+    "description": "A cool Brake Pedal.",
+    "image": "ipfs://QmUkUsiVjCa3PkASHrw951QMfyw3SUNUe9QtSxfWAnqZZc",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "silver"
+      }
+    ]
+  },
+  {
+    "name": "Gas Pedal",
+    "description": "A cool Gas Pedal.",
+    "image": "ipfs://QmQ2zFitktoeFB7bR2uDPdaNgHRuQxwx2s2nejsMHJs86v",
+    "attributes": [
+      {
+        "trait_type": "color",
+        "value": "silver"
+      }
+    ]
+  }
+]
